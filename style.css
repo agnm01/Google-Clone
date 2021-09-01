@@ -62,8 +62,7 @@ body {
     margin-top: 2rem;
     margin-bottom: 2rem;
     padding: 0.6rem;
-    min-width: 200px;
-    max-width: 580px;
+    width: 580px;
 }
 
 .search-input {
