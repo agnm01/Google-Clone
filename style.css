@@ -22,10 +22,6 @@ body {
 .navbar-container ul li a {
     padding-right: 1rem;
     text-decoration: none;
-    color: #404040;
-}
-
-.navbar-container ul li a {
     color: black;
 }
 
@@ -66,7 +62,8 @@ body {
     margin-top: 2rem;
     margin-bottom: 2rem;
     padding: 0.6rem;
-    width: 580px;
+    min-width: 200px;
+    max-width: 580px;
 }
 
 .search-input {
